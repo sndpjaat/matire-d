@@ -409,7 +409,7 @@ input:checked+.slider:before {
 }
 
 .pt-75 {
-    padding-top: 75px;
+    padding-top: 50px;
 }
 
 .gap-30 {
@@ -471,7 +471,7 @@ input:checked+.slider:before {
 }
 
 .pt-90 {
-    padding-top: 90px;
+    padding-top: 20px;
 }
 
 .pt-217 {
@@ -624,6 +624,12 @@ input:checked+.slider:before {
     }
     .pt-295 {
         padding-top: 295px;
+    }
+    .pt-90 {
+        padding-top: 90px;
+    }
+    .pt-75 {
+        padding-top: 75px;
     }
     
 }
