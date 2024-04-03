@@ -118,3 +118,49 @@ opacity: 70%;
 .ff-Work  {
     font-family: "Work Sans", sans-serif;
 }
+@media (max-width:786px) {
+    :root {
+        /* font-size */
+        --fs-ssm: 12px;
+        --fs-2sm: 14px;
+        --fs-sm: 16px;
+        --fs-md: 20px;
+        --fs-lg: 23px;
+        --fs-xl: 21px;
+        --fs-2xl: 35px;
+        --fs-3xl: 50px;
+
+        /* line-height */
+        --lh-18: 18px;
+        --lh-21: 21px;
+        --lh-23: 23px;
+        --lh-27: 27px;
+        --lh-36: 36px;
+        --lh-46: 46px;
+        --lh-71: 50px;
+        ;
+    }
+}
+
+@media (max-width:576px) {
+    :root {
+        /* font-size */
+        
+        --fs-sm: 16px;
+        --fs-md: 20px;
+        --fs-lg: 23px;
+        --fs-xl: 21px;
+        --fs-2xl: 35px;
+        --fs-3xl: 40px;
+
+        /* line-height */
+        --lh-18: 18px;
+        --lh-21: 21px;
+        --lh-23: 23px;
+        --lh-27: 27px;
+        --lh-36: 36px;
+        --lh-46: 46px;
+        --lh-71: 50px;
+        ;
+    }
+}
